@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Realizar el proceso de autenticación exitosa del sitio &quot;Sauce demo&quot;" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-04-10T12:34:47" hostname="LATAM-FX61GG3" time="7.431">
+  <properties/>
+  <testcase name="Verificar que se realice el proceso de autenticación de manera exitosa" classname="Realizar el proceso de autenticación exitosa del sitio &quot;Sauce demo&quot;" time="7.431"/>
+  <system-out><![CDATA[Feature from file:///C:/Users/carolina.riost/Documents/hbarrera/RetoAutomatizacionTyba/src/test/resources/features/autenticacion_exitosa_saucedemo.feature
+]]></system-out>
+  <system-err><![CDATA[Apr 10, 2023 7:34:47 AM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 3418
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1681130089.108][WARNING]: This version of ChromeDriver has not been tested with Chrome version 111.
+[1681130089.115][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
+Apr 10, 2023 7:34:49 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>

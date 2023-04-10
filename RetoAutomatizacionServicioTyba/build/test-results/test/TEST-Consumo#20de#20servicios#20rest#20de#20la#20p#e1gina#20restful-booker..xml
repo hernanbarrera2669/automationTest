@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Consumo de servicios rest de la página restful-booker." tests="1" skipped="0" failures="0" errors="0" timestamp="2023-04-10T12:39:27" hostname="LATAM-FX61GG3" time="2.719">
+  <properties/>
+  <testcase name="Consumir servicio rest y así realizar una correcta autenticación." classname="Consumo de servicios rest de la página restful-booker." time="2.719"/>
+  <system-out><![CDATA[Feature from file:///C:/Users/carolina.riost/Documents/hbarrera/RetoAutomatizacionServicioTyba/src/test/resources/features/servicio_autenticacion.feature
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

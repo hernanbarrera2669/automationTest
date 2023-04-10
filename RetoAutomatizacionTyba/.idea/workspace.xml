@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="be4833d2-e055-44a4-8006-acffe9e99e0c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../RetoAutomatizacionServicioTyba/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RetoAutomatizacionServicioTyba/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RetoAutomatizacionServicioTyba/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RetoAutomatizacionServicioTyba/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RetoAutomatizacionServicioTyba/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RetoAutomatizacionServicioTyba/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RetoAutomatizacionServicioTyba/src/main/java/definitions/ConsumoServicioRestDefinition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RetoAutomatizacionServicioTyba/src/main/java/models/Ingreso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RetoAutomatizacionServicioTyba/src/main/java/steps/ConsumoServicioRestStep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RetoAutomatizacionServicioTyba/src/test/java/runners/ConsumoServicioRestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RetoAutomatizacionServicioTyba/src/test/resources/features/servicio_autenticacion.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/reto/tyba/enums/Mensajes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/reto/tyba/exceptions/ExcepcionesGenerales.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/reto/tyba/questions/VerificarAutenticacionExitosa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/reto/tyba/questions/VerificarMensajeAutenticacionFallida.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/reto/tyba/task/Abrir.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/reto/tyba/task/IngresoUsuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/reto/tyba/userinterfaces/IngresoSauceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/reto/tyba/userinterfaces/LoginUsuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/reto/tyba/runners/RetoSauceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/reto/tyba/stepdefinitions/GeneralStepDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/reto/tyba/stepdefinitions/SauceDemoStepDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/autenticacion_exitosa_saucedemo.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RetoLogica/src/com/reto/tyba/constantes/Mensajes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RetoLogica/src/com/reto/tyba/constantes/TipoDocumento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pruebaBancolombiaInversiones/ProyectoAutomatizacion/src/main/java/com/bancolombia/enums/CabeceraTabla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pruebaBancolombiaInversiones/ProyectoAutomatizacion/src/main/java/com/bancolombia/enums/Constantes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pruebaBancolombiaInversiones/ProyectoAutomatizacion/src/main/java/com/bancolombia/enums/Mensajes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pruebaBancolombiaInversiones/ProyectoAutomatizacion/src/main/java/com/bancolombia/enums/VariablesSession.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pruebaBancolombiaInversiones/ProyectoAutomatizacion/src/main/java/com/bancolombia/exceptions/ExcepcionesGenerales.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pruebaBancolombiaInversiones/ProyectoAutomatizacion/src/main/java/com/bancolombia/models/DatosSimulacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pruebaBancolombiaInversiones/ProyectoAutomatizacion/src/main/java/com/bancolombia/questions/VerificarMensajeSimulacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pruebaBancolombiaInversiones/ProyectoAutomatizacion/src/main/java/com/bancolombia/tasks/Abrir.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pruebaBancolombiaInversiones/ProyectoAutomatizacion/src/main/java/com/bancolombia/tasks/BuscarOpcionInversionVirtual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pruebaBancolombiaInversiones/ProyectoAutomatizacion/src/main/java/com/bancolombia/tasks/BuscarOpcionInversiones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pruebaBancolombiaInversiones/ProyectoAutomatizacion/src/main/java/com/bancolombia/tasks/RealizarSimulacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pruebaBancolombiaInversiones/ProyectoAutomatizacion/src/main/java/com/bancolombia/userinterfaces/BusquedaInversiones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pruebaBancolombiaInversiones/ProyectoAutomatizacion/src/main/java/com/bancolombia/userinterfaces/IngresoBancolombia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pruebaBancolombiaInversiones/ProyectoAutomatizacion/src/main/java/com/bancolombia/userinterfaces/VerificarSimulacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pruebaBancolombiaInversiones/ProyectoAutomatizacion/src/main/java/com/bancolombia/utils/Esperas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pruebaBancolombiaInversiones/ProyectoAutomatizacion/src/test/java/com/bancolombia/runners/BancolombiaRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pruebaBancolombiaInversiones/ProyectoAutomatizacion/src/test/java/com/bancolombia/stepdefinitions/GeneralStepDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pruebaBancolombiaInversiones/ProyectoAutomatizacion/src/test/java/com/bancolombia/stepdefinitions/InversionesStepDefinition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pruebaBancolombiaInversiones/ProyectoAutomatizacion/src/test/resources/features/bancolombia_inversiones.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pruebaTenicaTyba" beforeDir="false" afterPath="$PROJECT_DIR$/../pruebaTenicaTyba" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="RetoSauceDemo" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2OCFhHCX0o0LnTlDrdosCwedzmc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/PruebaTravel/build.gradle" />
+  </component>
+  <component name="RunManager">
+    <configuration name="RetoSauceDemo" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.reto.tyba.runners.RetoSauceDemo&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.RetoSauceDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be4833d2-e055-44a4-8006-acffe9e99e0c" name="Changes" comment="" />
+      <created>1681056776079</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681056776079</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
